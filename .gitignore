@@ -109,6 +109,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.vscode
+completed dataset
+supplementen 2.csv
 
 # Spyder project settings
 .spyderproject
